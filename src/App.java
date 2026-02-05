@@ -9,6 +9,7 @@ public class App {
         // Crear la lista inicial de pedidos
         /// CODE
 
+        
         // MÉTODO A: filtrarPorZona(List<Pedido>, int umbral)
         // Debe devolver un Stack con los pedidos cuya zona sea MAYOR al umbral
         // Recorre la lista de pedidos y añade al Stack solo aquellos que cumplan la
